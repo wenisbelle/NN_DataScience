@@ -1,0 +1,11 @@
+# Virtual environments
+venv/
+env/
+.env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+
+*.ulog
